@@ -145,4 +145,13 @@ button[type="submit"]:hover {
     color: #666;
     font-size: 18px;
     line-height: 1.6;
+}
+
+.form-title {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #2b2b2b;
+    margin-bottom: 18px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
 } 
