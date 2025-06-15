@@ -100,7 +100,7 @@ textarea {
     display: flex;
     gap: 6px;
     font-size: 1.5rem;
-    color: #c7a962;
+    color: #f7ecd3;
     cursor: pointer;
 }
 
@@ -111,7 +111,7 @@ textarea {
 .star-rating .fas.selected,
 .star-rating .fas:hover,
 .star-rating .fas:hover ~ .fas {
-    color: #23211e;
+    color: #c7a962;
 }
 
 button[type="submit"] {
